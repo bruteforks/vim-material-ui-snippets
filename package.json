@@ -6,10 +6,6 @@
   "contributes": {
     "snippets": [
       {
-        "language": "html",
-        "path": "./snippets/html-extra.json"
-      },
-      {
         "language": [
           "javascript",
           "javascriptreact",
