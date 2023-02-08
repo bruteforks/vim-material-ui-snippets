@@ -1,0 +1,22 @@
+{
+  "name": "custom-snippets",
+  "engines": {
+    "vscode": "^1.11.0"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/html-extra.json"
+      },
+      {
+        "language": [
+          "javascript",
+          "javascriptreact",
+          "typescript"
+        ],
+        "path": "./snippets/materialui.json"
+      }
+    ]
+  }
+}
